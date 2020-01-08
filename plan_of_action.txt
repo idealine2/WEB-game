@@ -1,0 +1,14 @@
+Welcome to the amazing plan of action (a draft)
+
+>> willen we dat er een 'confirm move' message/knop is? Mss wel nice
+
+A list of UI things?
+- leaving game - can be done whether it's user's turn or not. 
+    - Mouse click on button > give box asking them for confirmation 
+        > yes = go to splash screen and end game
+        > no = go back to game screen
+- choosing a column for your circle
+    - mouse click on column or above it
+    > if column is full show message that that column is not a viable option
+    > if possible > circle will go down to be in that column
+- 
